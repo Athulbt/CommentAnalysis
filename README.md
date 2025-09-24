@@ -1,4 +1,4 @@
-# Comment Analysis
+# Comment Analysis System
 
 A simple web-based tool for analyzing text comments.  
 
@@ -36,7 +36,6 @@ CommentAnalysis/
 │── output1.png      # Example output screenshot
 │── output2.png
 │── output3.png
-
 
 ## Getting Started
 
